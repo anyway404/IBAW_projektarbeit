@@ -1,0 +1,114 @@
+[
+  {
+    "brand": "Renault",
+    "name": "Trafic",
+    "type": "Kastenwagen",
+    "seats": "3",
+    "year": "2018",
+    "km": "68500",
+    "use": "Mietwagen",
+    "availability": ""
+  },
+  {
+    "brand": "Renault",
+    "name": "Master",
+    "type": "Kastenwagen mittel",
+    "seats": "3",
+    "year": "2018",
+    "km": "78100",
+    "use": "Mietwagen",
+    "availability": ""
+  },
+  {
+    "brand": "Renault",
+    "name": "Master ",
+    "type": "Kastenwagen gross",
+    "seats": "3",
+    "year": "2019",
+    "km": "43800",
+    "use": "Mietwagen",
+    "availability": ""
+  },
+  {
+    "brand": "Renault",
+    "name": "Trafic",
+    "type": "Bus",
+    "seats": "9",
+    "year": "2015",
+    "km": "143876",
+    "use": "Mietwagen",
+    "availability": ""
+  },
+  {
+    "brand": "Renault",
+    "name": "Master ",
+    "type": "Kastenwagen gross",
+    "seats": "3",
+    "year": "2023",
+    "km": "18800",
+    "use": "Mietwagen",
+    "availability": ""
+  },
+
+  {
+    "brand": "Renault",
+    "name": "Scenic",
+    "type": "Minivan",
+    "seats": "5",
+    "year": "2018",
+    "km": "41500",
+    "use": "Ersatzwagen",
+    "availability": ""
+  },
+
+  {
+    "brand": "Renault",
+    "name": "Zoe",
+    "type": "Kleinwagen",
+    "seats": "5",
+    "year": "2020",
+    "km": "38700",
+    "use": "Ersatzwagen",
+    "availability": ""
+  },
+  {
+    "brand": "Renault",
+    "name": "Koleos",
+    "type": "SUV",
+    "seats": "5",
+    "year": "2021",
+    "km": "20650",
+    "use": "Ersatzwagen",
+    "availability": ""
+  },
+  {
+    "brand": "Renault",
+    "name": "Clio",
+    "type": "Kleinwagen",
+    "seats": "5",
+    "year": "2023",
+    "km": "8500",
+    "use": "Ersatzwagen",
+    "availability": ""
+  },
+  {
+    "brand": "Dacia",
+    "name": "Sandero",
+    "type": "Kleinwagen",
+    "seats": "5",
+    "year": "2023",
+    "km": "990",
+    "use": "Ersatzwagen",
+    "availability": ""
+  },
+  {
+    "brand": "Dacia",
+    "name": "Sandero",
+    "type": "Kleinwagen",
+    "seats": "5",
+    "year": "2023",
+    "km": "118",
+    "use": "Ersatzwagen",
+    "availability": ""
+  }
+]
